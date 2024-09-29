@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dowry Demand Prediction</title>
+    <!-- CSS Libraries -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+
+<body>
+    <h2>Dowry Demand Prediction</h2>
+
+    <div class="container">
+        <span class="error animated tada" id="msg"></span>
+
+        <!-- Updated form with action pointing to /predict -->
+        <form class="box" method="POST" action="/predict">
+
+            <h4>Dowry <span>Prediction</span></h4>
+            <h5>Let me help you know your worth.</h5>
+
+            <label for="income">Income:</label>
+            <select name="income">
+                <option value="low">Low</option>
+                <option value="medium">Medium</option>
+                <option value="high">High</option>
+            </select>
+
+            <label for="education">Education:</label>
+            <select name="education">
+                <option value="no formal education">No Formal Education</option>
+                <option value="high school">High School</option>
+                <option value="college">College</option>
+            </select>
+
+            <label for="family_size">Family Size:</label>
+            <input type="number" name="family_size" min="1" required>
+
+            <label for="location_type">Location Type:</label>
+            <select name="location_type">
+                <option value="rural">Rural</option>
+                <option value="urban">Urban</option>
+            </select>
+
+            <label for="region">Region:</label>
+            <select name="region">
+                <option value="north">North</option>
+                <option value="south">South</option>
+                <option value="east">East</option>
+                <option value="west">West</option>
+            </select>
+
+            <label for="caste">Caste:</label>
+            <select name="caste">
+                <option value="general">General</option>
+                <option value="brahmin">Brahmin</option>
+                <option value="kshatriya">Kshatriya</option>
+                <option value="vaishya">Vaishya</option>
+                <option value="rajput">Rajput</option>
+                <option value="baniya">Baniya</option>
+                <option value="kayasta">Kayasta</option>
+                <option value="marwari">Marwari</option>
+                <option value="scheduled caste">Scheduled Caste</option>
+                <option value="dalit">Dalit</option>
+                <option value="chamar">Chamar</option>
+                <option value="jatav">Jatav</option>
+                <option value="balmiki">Balmiki</option>
+                <option value="scheduled tribe">Scheduled Tribe</option>
+                <option value="gond">Gond</option>
+                <option value="santhal">Santhal</option>
+                <option value="munda">Munda</option>
+                <option value="khasi">Khasi</option>
+                <option value="other backward class">Other Backward Class</option>
+                <option value="yadav">Yadav</option>
+                <option value="kurmi">Kurmi</option>
+                <option value="gujjar">Gujjar</option>
+                <option value="ahir">Ahir</option>
+                <option value="jat">Jat</option>
+                <option value="maratha">Maratha</option>
+
+            </select>
+
+            <label for="religion">Religion:</label>
+            <select name="religion">
+                <option value="hindu">Hindu</option>
+                <option value="muslim">Muslim</option>
+                <option value="christian">Christian</option>
+                <option value="sikh">Sikh</option>
+                <option value="buddhist">Buddhist</option>
+                <option value="jain">Jain</option>
+                <option value="zoroastrian">Zoroastrian</option>
+                <option value="parsi">Parsi</option>
+                <option value="jewish">Jewish</option>
+                <option value="bahai">Bahai</option>
+            </select>
+
+            <label for="age_bride">Age of Bride:</label>
+            <input type="number" name="age_bride" min="18" required>
+
+            <label for="age_groom">Age of Groom:</label>
+            <input type="number" name="age_groom" min="18" required>
+
+            <button type="submit">Predict Dowry Amount</button>
+
+        </form>
+
+        {% if prediction_text %}
+        <h3>{{ prediction_text }}</h3>
+        {% endif %}
+    </div>
+</body>
+
+</html>

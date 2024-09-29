@@ -1,0 +1,1001 @@
+income,education,family_size,location_type,region,caste,religion,age_bride,age_groom,dowry_amount
+low,high school,8,rural,south,jatav,muslim,34,32,855876
+low,no formal education,9,urban,south,chamar,muslim,21,47,843279
+high,high school,6,rural,north,gujjar,parsi,20,44,441720
+low,college,2,rural,west,dalit,buddhist,20,30,854930
+high,college,2,urban,west,kshatriya,jewish,30,45,991585
+low,high school,8,rural,south,dalit,buddhist,36,37,445290
+high,no formal education,5,urban,west,chamar,bahai,28,42,204198
+high,college,9,rural,east,scheduled caste,hindu,38,30,74315
+low,no formal education,4,urban,south,scheduled caste,jain,35,36,507769
+high,no formal education,8,urban,south,baniya,hindu,29,31,63657
+medium,high school,8,urban,south,general,buddhist,32,20,931271
+medium,no formal education,3,urban,north,maratha,hindu,30,19,68304
+medium,no formal education,3,rural,south,kshatriya,buddhist,35,28,467686
+medium,college,3,rural,west,balmiki,hindu,20,30,268081
+low,college,4,urban,west,ahir,jain,27,48,460307
+high,no formal education,3,rural,south,balmiki,jain,27,21,50325
+medium,no formal education,7,rural,west,general,jewish,26,25,331308
+medium,college,4,rural,south,kurmi,parsi,35,39,215216
+high,high school,3,urban,west,khasi,christian,21,34,530104
+low,college,5,rural,north,other backward class,sikh,36,45,604326
+low,high school,3,urban,west,yadav,jewish,19,27,918284
+low,no formal education,6,urban,west,kshatriya,buddhist,24,44,408694
+high,high school,5,rural,east,maratha,parsi,31,26,600060
+medium,no formal education,8,rural,south,jat,jain,30,32,572896
+low,high school,3,rural,east,yadav,buddhist,19,20,198290
+high,no formal education,4,rural,west,general,parsi,36,40,75124
+medium,high school,7,rural,west,kayasta,zoroastrian,38,19,726655
+high,high school,1,urban,north,kshatriya,bahai,31,38,426884
+low,college,6,rural,west,jatav,christian,26,42,845485
+medium,college,1,rural,north,chamar,buddhist,22,21,901103
+high,high school,5,urban,east,khasi,hindu,34,40,239940
+medium,no formal education,3,urban,east,jat,jewish,28,26,523840
+medium,no formal education,3,urban,north,jatav,hindu,23,36,864172
+high,high school,9,rural,north,kayasta,parsi,34,26,826167
+low,college,8,rural,south,baniya,jewish,29,28,715964
+medium,no formal education,8,rural,east,scheduled tribe,zoroastrian,30,19,481790
+low,high school,9,rural,south,marwari,parsi,20,32,679448
+low,college,8,rural,north,kurmi,muslim,34,46,534243
+medium,no formal education,4,urban,south,kurmi,hindu,30,19,499030
+low,no formal education,3,rural,south,scheduled tribe,hindu,24,34,495871
+high,college,1,urban,south,gond,sikh,30,21,60927
+low,college,3,rural,north,general,parsi,37,25,867335
+high,high school,9,urban,south,khasi,sikh,22,28,204450
+high,no formal education,5,rural,north,other backward class,parsi,37,33,957804
+medium,college,4,urban,west,general,buddhist,22,36,311153
+high,no formal education,9,urban,south,brahmin,muslim,21,30,732625
+medium,no formal education,6,rural,north,balmiki,zoroastrian,39,34,235263
+low,high school,1,urban,east,munda,muslim,34,34,133711
+high,high school,7,rural,south,munda,buddhist,24,42,997215
+low,college,7,urban,south,santhal,sikh,26,33,543890
+low,college,2,urban,north,jat,parsi,36,31,963138
+low,high school,1,rural,north,dalit,parsi,32,44,904004
+low,college,6,urban,west,jat,christian,18,28,551586
+medium,high school,1,urban,north,ahir,jain,34,26,787096
+medium,no formal education,9,urban,north,jatav,muslim,33,19,447957
+medium,high school,2,rural,east,yadav,jain,23,22,497938
+high,no formal education,4,urban,south,dalit,jewish,32,38,727414
+medium,high school,9,rural,north,ahir,jewish,36,34,356642
+high,high school,7,urban,north,baniya,bahai,31,34,895125
+medium,no formal education,6,rural,south,baniya,sikh,33,27,557245
+high,high school,6,rural,north,scheduled caste,hindu,30,45,654134
+high,high school,2,urban,south,baniya,muslim,36,33,117495
+high,college,5,rural,north,chamar,zoroastrian,32,44,301503
+low,no formal education,3,urban,south,rajput,parsi,22,32,282893
+high,college,6,rural,north,vaishya,muslim,38,27,333803
+high,no formal education,1,urban,east,brahmin,hindu,36,41,861240
+high,college,9,urban,west,balmiki,parsi,33,40,468233
+medium,no formal education,4,urban,north,munda,zoroastrian,30,44,139513
+low,college,7,rural,north,other backward class,parsi,26,38,181699
+low,college,2,rural,north,kshatriya,buddhist,27,29,955693
+medium,no formal education,2,rural,east,santhal,parsi,34,38,198709
+low,no formal education,9,rural,west,vaishya,sikh,26,47,328718
+high,high school,6,urban,east,balmiki,jain,32,47,122264
+medium,no formal education,7,urban,south,gond,zoroastrian,38,19,270552
+high,high school,3,urban,south,jatav,buddhist,24,26,14541
+high,high school,1,rural,north,maratha,hindu,35,43,925806
+high,no formal education,3,urban,north,vaishya,jain,19,28,518893
+high,college,8,rural,east,brahmin,jain,35,30,924459
+low,college,6,urban,south,other backward class,parsi,20,47,329703
+medium,college,1,urban,north,gujjar,jewish,24,43,730704
+high,high school,5,rural,south,kurmi,sikh,24,27,287352
+medium,high school,1,urban,west,brahmin,zoroastrian,32,38,445535
+high,no formal education,4,rural,south,maratha,muslim,24,49,371008
+low,no formal education,4,rural,west,chamar,sikh,22,30,44639
+low,college,7,rural,north,dalit,muslim,23,46,917661
+high,no formal education,6,rural,east,scheduled tribe,jewish,39,47,382227
+high,high school,1,urban,north,ahir,zoroastrian,31,49,979843
+medium,no formal education,6,rural,east,dalit,jain,31,18,936062
+low,no formal education,2,urban,west,kurmi,hindu,32,31,811773
+high,high school,1,rural,north,scheduled tribe,hindu,39,18,464255
+medium,college,7,urban,south,chamar,sikh,32,19,822487
+medium,college,3,rural,north,gujjar,bahai,21,47,675256
+low,college,3,rural,west,jatav,jewish,27,48,38274
+low,college,9,urban,west,vaishya,muslim,20,38,921227
+low,no formal education,6,urban,north,jat,sikh,28,49,803652
+high,high school,4,urban,north,kurmi,muslim,30,43,921934
+high,college,5,urban,south,jatav,christian,18,47,107538
+medium,no formal education,5,rural,west,yadav,muslim,36,20,197081
+medium,high school,6,urban,south,baniya,bahai,31,43,146643
+high,college,6,rural,west,chamar,hindu,35,49,584312
+low,college,1,urban,west,brahmin,parsi,39,27,613265
+high,high school,9,urban,north,scheduled tribe,buddhist,28,18,959532
+low,high school,3,rural,north,dalit,bahai,33,18,540074
+low,high school,1,urban,south,khasi,zoroastrian,32,32,365650
+low,college,2,urban,east,gond,muslim,34,33,455882
+high,high school,6,urban,north,balmiki,buddhist,34,24,671464
+high,college,8,urban,south,marwari,christian,36,30,763345
+medium,no formal education,9,urban,north,jat,hindu,28,44,563121
+high,college,8,rural,south,maratha,christian,31,33,649764
+low,high school,5,rural,north,chamar,parsi,34,19,886697
+low,no formal education,3,rural,south,other backward class,parsi,22,34,206396
+medium,high school,8,rural,east,chamar,buddhist,35,45,275318
+high,high school,6,urban,west,santhal,jain,26,20,24628
+high,high school,3,rural,north,kshatriya,buddhist,26,47,548624
+high,high school,9,rural,east,ahir,zoroastrian,18,43,337283
+low,no formal education,7,urban,east,santhal,zoroastrian,26,32,387728
+medium,high school,8,rural,south,dalit,muslim,21,30,16170
+high,college,1,rural,north,yadav,hindu,37,18,693609
+low,high school,1,rural,north,ahir,hindu,25,42,45323
+medium,no formal education,4,rural,east,baniya,parsi,25,35,657668
+low,college,5,urban,east,baniya,buddhist,20,25,304843
+high,no formal education,7,rural,west,dalit,hindu,37,49,99311
+high,college,8,rural,south,dalit,buddhist,25,41,379696
+low,high school,6,rural,south,chamar,zoroastrian,35,37,514373
+low,high school,8,rural,east,jat,christian,18,39,144934
+high,college,8,rural,west,balmiki,buddhist,33,41,415390
+medium,high school,3,rural,west,general,jewish,29,48,632896
+low,no formal education,5,urban,south,khasi,jain,29,18,487274
+medium,no formal education,7,rural,north,jatav,bahai,32,46,774121
+medium,high school,1,urban,west,baniya,buddhist,28,22,19500
+medium,high school,8,urban,north,khasi,jewish,31,22,841564
+high,no formal education,3,rural,west,kurmi,buddhist,21,34,842477
+high,no formal education,9,urban,west,munda,zoroastrian,23,39,577543
+low,high school,6,rural,north,scheduled caste,jain,22,47,308961
+medium,high school,7,rural,east,scheduled caste,jain,19,31,283645
+medium,no formal education,6,rural,east,gond,buddhist,18,32,597960
+medium,college,5,urban,west,dalit,christian,24,30,891624
+high,high school,8,rural,south,gujjar,christian,26,26,287570
+low,college,9,rural,south,baniya,zoroastrian,34,39,210411
+medium,high school,7,rural,south,balmiki,zoroastrian,30,49,646501
+low,college,2,urban,north,other backward class,parsi,35,34,260463
+medium,no formal education,1,urban,east,munda,hindu,37,27,23937
+high,college,7,rural,west,yadav,zoroastrian,21,42,358319
+medium,high school,7,urban,south,baniya,muslim,36,26,461636
+medium,college,1,urban,east,munda,parsi,38,35,591233
+high,no formal education,1,urban,south,maratha,bahai,21,40,462023
+high,high school,9,rural,east,kshatriya,hindu,19,29,717974
+high,high school,3,rural,east,brahmin,hindu,35,22,374995
+low,high school,6,rural,south,balmiki,jewish,37,29,16321
+medium,high school,5,rural,south,munda,sikh,39,36,513165
+high,no formal education,2,rural,east,brahmin,hindu,19,23,334374
+medium,no formal education,7,rural,west,marwari,bahai,25,32,357751
+high,college,8,rural,east,vaishya,sikh,25,36,217609
+low,college,8,urban,west,vaishya,jain,28,31,219859
+low,no formal education,1,urban,east,yadav,jewish,26,29,845310
+low,high school,3,rural,east,scheduled caste,hindu,27,25,244102
+low,no formal education,5,urban,south,general,parsi,20,29,537065
+high,college,6,rural,east,gujjar,christian,23,31,58794
+low,no formal education,2,urban,west,jat,christian,37,35,192466
+medium,college,6,urban,east,maratha,jain,26,38,400766
+high,high school,8,rural,west,kayasta,muslim,31,43,353881
+medium,high school,7,rural,east,munda,zoroastrian,25,44,990331
+high,college,8,rural,west,rajput,christian,27,35,384550
+medium,college,5,rural,south,dalit,buddhist,30,32,140793
+low,high school,7,urban,south,kshatriya,jewish,32,24,460374
+high,high school,7,rural,south,brahmin,zoroastrian,27,32,638386
+high,college,5,rural,north,scheduled caste,hindu,20,30,747001
+medium,high school,5,rural,north,jat,buddhist,29,24,993177
+medium,high school,8,rural,west,general,jain,33,28,505475
+low,college,3,rural,north,kurmi,jain,33,25,535384
+low,no formal education,3,rural,north,gujjar,muslim,25,27,553911
+high,college,3,rural,east,jatav,zoroastrian,22,40,739643
+low,no formal education,8,rural,north,marwari,sikh,34,45,295046
+medium,high school,8,urban,north,balmiki,jain,35,36,26124
+high,high school,9,urban,east,kayasta,bahai,22,38,337758
+high,no formal education,1,rural,east,santhal,buddhist,21,46,549292
+high,high school,7,rural,west,other backward class,parsi,19,29,939082
+high,college,4,urban,east,kurmi,hindu,32,33,658816
+high,college,2,rural,south,jatav,christian,21,44,920392
+medium,no formal education,6,rural,west,maratha,bahai,25,35,294569
+high,college,9,urban,west,ahir,christian,21,33,65989
+medium,no formal education,8,rural,west,brahmin,buddhist,37,49,246215
+medium,college,9,rural,east,general,zoroastrian,33,22,724643
+medium,high school,6,urban,south,vaishya,muslim,23,40,253674
+high,high school,5,rural,south,other backward class,buddhist,31,40,134573
+high,no formal education,8,urban,east,other backward class,jain,25,37,505261
+high,no formal education,6,urban,south,rajput,christian,19,48,769025
+high,no formal education,9,rural,west,yadav,buddhist,23,41,205940
+high,high school,7,rural,east,brahmin,jain,38,46,375646
+low,no formal education,6,urban,south,jatav,zoroastrian,26,26,882924
+medium,no formal education,6,rural,north,other backward class,hindu,28,24,235427
+high,high school,1,rural,south,general,christian,29,18,916781
+high,high school,1,rural,north,balmiki,sikh,37,20,525603
+low,high school,7,rural,east,balmiki,bahai,35,36,214041
+high,high school,9,rural,south,dalit,parsi,27,29,364242
+medium,no formal education,6,rural,east,vaishya,bahai,23,37,181255
+medium,college,3,urban,west,vaishya,sikh,37,46,903079
+low,high school,3,urban,east,baniya,zoroastrian,27,26,260429
+low,no formal education,8,rural,north,khasi,jewish,36,44,67689
+high,high school,5,rural,west,yadav,muslim,35,28,722408
+high,no formal education,3,rural,west,other backward class,sikh,38,30,591124
+low,high school,4,rural,south,kshatriya,christian,34,27,358288
+high,no formal education,5,urban,south,yadav,jewish,23,28,696040
+medium,college,9,rural,east,gujjar,muslim,32,45,151834
+low,high school,6,rural,south,munda,christian,29,19,93350
+high,college,3,rural,west,other backward class,zoroastrian,21,23,120383
+medium,high school,5,rural,west,kurmi,christian,31,32,42414
+high,no formal education,2,urban,west,jatav,jewish,26,37,239193
+low,high school,7,urban,south,rajput,buddhist,27,38,60995
+high,high school,9,urban,south,scheduled tribe,bahai,34,29,463887
+low,college,1,rural,west,brahmin,muslim,20,31,541296
+high,college,3,urban,north,chamar,zoroastrian,37,27,615183
+low,no formal education,5,urban,east,maratha,jewish,25,39,444994
+low,no formal education,6,rural,west,maratha,parsi,30,42,198509
+high,college,9,rural,north,brahmin,buddhist,21,47,862492
+medium,no formal education,9,urban,north,maratha,jain,39,21,837805
+high,high school,1,rural,south,chamar,buddhist,24,37,817961
+low,high school,1,rural,west,other backward class,jain,29,20,599556
+medium,no formal education,3,urban,south,scheduled tribe,sikh,28,45,676388
+medium,college,8,rural,south,kayasta,sikh,37,40,269406
+medium,high school,8,rural,north,brahmin,parsi,29,23,982862
+medium,college,2,urban,east,jatav,sikh,23,28,966510
+high,college,1,rural,south,scheduled tribe,sikh,20,27,52642
+medium,no formal education,5,urban,east,brahmin,zoroastrian,21,26,87309
+medium,no formal education,9,urban,east,other backward class,zoroastrian,21,41,534426
+medium,no formal education,6,urban,west,khasi,christian,23,49,136577
+low,high school,8,rural,south,santhal,zoroastrian,22,19,734353
+medium,college,9,urban,south,ahir,hindu,23,37,783076
+high,no formal education,1,rural,east,yadav,hindu,25,48,890280
+low,college,9,urban,north,vaishya,muslim,34,45,508121
+low,college,5,rural,west,general,jewish,24,19,909398
+medium,college,6,rural,west,dalit,sikh,39,41,177186
+medium,college,4,rural,north,chamar,sikh,26,41,354988
+medium,high school,3,rural,east,scheduled caste,zoroastrian,30,48,753149
+medium,college,3,urban,east,rajput,christian,35,36,451512
+medium,no formal education,1,rural,south,gond,parsi,31,23,21321
+medium,college,2,rural,east,baniya,zoroastrian,27,41,394534
+low,college,3,urban,west,gujjar,bahai,31,18,949006
+high,no formal education,2,urban,south,ahir,christian,27,21,757677
+high,college,8,rural,west,santhal,zoroastrian,23,35,797485
+low,no formal education,4,urban,east,gond,bahai,19,34,348896
+low,high school,6,rural,south,dalit,sikh,39,33,99915
+high,no formal education,7,rural,east,brahmin,zoroastrian,38,48,475906
+low,high school,6,rural,north,gujjar,sikh,22,31,460333
+medium,college,7,urban,west,rajput,jewish,18,35,179293
+low,college,1,rural,north,marwari,bahai,35,28,717423
+low,high school,2,rural,west,khasi,parsi,24,18,37491
+high,high school,4,urban,west,chamar,zoroastrian,19,40,683591
+low,college,9,urban,south,khasi,jain,18,20,990032
+medium,no formal education,3,rural,north,other backward class,bahai,19,30,894963
+low,high school,8,urban,west,scheduled tribe,hindu,26,22,807179
+high,college,1,urban,north,khasi,christian,35,35,373253
+high,high school,3,urban,east,gond,muslim,33,42,821282
+high,no formal education,6,urban,east,brahmin,zoroastrian,18,20,251757
+low,high school,1,urban,west,vaishya,buddhist,26,39,520499
+low,college,4,urban,south,balmiki,hindu,24,28,981609
+medium,high school,8,rural,east,chamar,jain,28,29,955136
+low,high school,6,urban,north,munda,hindu,20,39,634303
+low,high school,5,urban,north,jatav,jain,19,30,955593
+low,college,6,rural,west,maratha,buddhist,22,33,906074
+medium,no formal education,9,rural,west,munda,sikh,20,40,115194
+medium,no formal education,5,rural,north,yadav,christian,18,42,440142
+low,no formal education,6,urban,west,jat,zoroastrian,34,23,302016
+medium,no formal education,8,rural,south,munda,bahai,21,45,57061
+medium,no formal education,2,rural,south,brahmin,hindu,30,32,639521
+low,high school,5,urban,west,khasi,muslim,20,48,873708
+medium,college,7,rural,north,munda,muslim,32,22,753592
+medium,no formal education,9,rural,north,ahir,jewish,32,22,999758
+high,college,4,urban,south,kshatriya,jewish,36,44,202669
+medium,high school,2,urban,east,jatav,bahai,22,34,625821
+medium,no formal education,9,rural,north,jatav,sikh,39,27,930201
+low,no formal education,3,urban,east,marwari,zoroastrian,22,44,798042
+high,college,1,rural,west,baniya,parsi,35,42,327804
+low,no formal education,7,urban,south,jat,jewish,24,45,744433
+medium,high school,2,rural,west,general,jain,27,24,498318
+medium,no formal education,4,rural,east,other backward class,hindu,33,37,607814
+high,high school,3,urban,east,santhal,sikh,26,23,760698
+high,college,2,rural,west,chamar,jewish,39,44,57987
+high,college,8,urban,north,khasi,bahai,25,19,997379
+medium,high school,6,urban,north,other backward class,jewish,19,19,261357
+low,college,5,urban,west,marwari,sikh,29,19,770373
+medium,no formal education,3,urban,west,baniya,jewish,22,47,497290
+medium,high school,5,urban,south,khasi,bahai,37,19,92646
+high,college,2,rural,south,scheduled caste,hindu,39,37,609131
+high,no formal education,7,rural,east,chamar,christian,37,30,129097
+medium,high school,1,rural,east,maratha,christian,25,20,83501
+medium,college,7,rural,west,ahir,christian,23,45,648896
+low,college,2,urban,east,gujjar,parsi,37,21,414913
+high,high school,5,urban,west,jatav,jewish,19,18,845340
+high,no formal education,6,urban,north,scheduled caste,buddhist,39,49,654013
+medium,high school,3,urban,north,marwari,parsi,22,19,168994
+medium,no formal education,5,urban,south,gond,parsi,24,45,463339
+medium,no formal education,1,urban,south,jatav,christian,28,39,246950
+low,college,2,urban,north,scheduled tribe,bahai,29,45,627497
+medium,no formal education,1,urban,west,santhal,hindu,25,34,834292
+low,no formal education,1,urban,west,khasi,sikh,27,45,320560
+medium,high school,7,urban,east,kshatriya,zoroastrian,35,29,912830
+low,no formal education,1,rural,east,kurmi,bahai,32,26,310239
+medium,no formal education,5,rural,east,general,bahai,37,42,495079
+low,high school,2,urban,west,kayasta,jain,32,49,161793
+medium,college,2,urban,north,ahir,buddhist,20,33,976113
+low,high school,5,urban,south,baniya,hindu,27,46,667432
+medium,college,7,rural,south,scheduled tribe,sikh,38,49,524571
+low,no formal education,9,urban,west,maratha,christian,21,32,919808
+high,college,8,urban,north,ahir,parsi,38,21,918493
+medium,high school,6,rural,south,general,muslim,32,44,57776
+high,college,1,rural,north,yadav,christian,22,35,627417
+high,high school,4,rural,east,vaishya,zoroastrian,26,41,526584
+medium,high school,5,rural,east,gujjar,zoroastrian,36,32,311866
+medium,high school,4,rural,west,munda,buddhist,32,20,320096
+medium,no formal education,4,urban,east,santhal,hindu,20,25,226715
+high,college,8,rural,south,general,jewish,29,25,122099
+medium,college,9,urban,west,chamar,jewish,34,46,703725
+high,high school,7,urban,north,kurmi,zoroastrian,31,33,692895
+high,college,6,urban,west,maratha,christian,34,28,542188
+high,college,9,urban,east,brahmin,parsi,24,32,720594
+low,no formal education,1,rural,south,santhal,jain,38,26,548542
+high,high school,7,rural,north,other backward class,parsi,25,28,292245
+medium,high school,8,rural,north,munda,zoroastrian,30,19,962584
+medium,no formal education,9,rural,south,balmiki,muslim,22,28,162277
+high,no formal education,6,rural,east,ahir,buddhist,31,34,813200
+high,no formal education,1,rural,east,jat,bahai,36,25,242722
+high,high school,7,urban,west,rajput,buddhist,30,21,591418
+medium,college,3,rural,north,general,bahai,26,30,723232
+low,college,9,rural,west,general,sikh,28,41,255516
+medium,high school,5,urban,north,kshatriya,hindu,22,21,722232
+low,college,6,urban,east,santhal,jewish,26,47,61323
+low,high school,9,rural,west,rajput,parsi,24,38,374638
+high,no formal education,7,rural,north,scheduled tribe,zoroastrian,39,36,229637
+high,college,7,urban,north,khasi,buddhist,20,46,745879
+medium,college,4,rural,south,vaishya,jewish,18,25,321301
+low,college,8,rural,north,chamar,sikh,28,24,350972
+high,high school,7,rural,north,yadav,jewish,38,24,751407
+high,college,2,rural,east,baniya,jain,20,27,794628
+medium,no formal education,9,rural,east,maratha,jain,21,32,886824
+high,high school,5,urban,west,scheduled tribe,christian,37,30,530818
+low,high school,1,urban,east,gond,buddhist,32,27,757123
+medium,no formal education,6,rural,south,vaishya,parsi,33,44,760717
+high,college,6,rural,north,maratha,jewish,34,29,831039
+medium,college,9,rural,east,general,bahai,32,45,949187
+high,college,8,urban,north,dalit,jewish,35,25,831354
+high,high school,2,rural,south,baniya,muslim,23,34,677194
+high,college,8,rural,east,scheduled tribe,christian,23,33,305287
+low,college,9,rural,north,brahmin,christian,29,19,399182
+high,college,2,rural,north,brahmin,zoroastrian,39,46,121504
+high,college,6,rural,west,ahir,jewish,23,46,582242
+low,college,6,urban,north,scheduled tribe,muslim,31,29,872949
+medium,no formal education,7,rural,north,marwari,jewish,31,44,605213
+high,high school,2,urban,south,chamar,sikh,38,21,126788
+low,no formal education,8,urban,south,jatav,bahai,36,39,246056
+high,high school,8,rural,west,marwari,sikh,39,49,238205
+low,high school,3,urban,north,dalit,buddhist,25,45,356081
+medium,college,1,urban,west,jatav,jewish,22,48,141925
+low,college,8,urban,east,dalit,zoroastrian,30,18,592017
+high,high school,4,urban,south,chamar,zoroastrian,25,37,109938
+low,college,2,urban,east,balmiki,jain,36,34,108249
+high,college,8,urban,south,ahir,muslim,24,28,110670
+high,no formal education,7,urban,west,kayasta,jewish,36,26,645168
+low,college,1,rural,west,yadav,zoroastrian,26,27,413520
+medium,high school,4,rural,north,brahmin,buddhist,26,36,250101
+low,no formal education,8,rural,west,jat,muslim,18,21,265220
+medium,college,1,rural,south,jatav,parsi,32,39,85820
+low,college,4,urban,west,general,jain,18,43,577708
+high,no formal education,1,rural,east,baniya,jewish,33,22,727072
+medium,college,9,urban,west,kshatriya,sikh,31,19,930442
+medium,no formal education,1,rural,south,baniya,buddhist,27,49,958061
+high,no formal education,5,rural,east,khasi,hindu,29,43,744498
+high,high school,8,urban,west,rajput,muslim,27,22,596821
+low,high school,4,urban,east,munda,christian,27,45,356189
+medium,high school,1,urban,east,vaishya,bahai,31,26,253453
+low,college,4,urban,west,scheduled tribe,muslim,29,47,494910
+high,high school,1,rural,north,scheduled tribe,christian,36,46,282276
+low,no formal education,9,rural,north,baniya,bahai,18,45,150133
+low,high school,9,urban,south,scheduled tribe,zoroastrian,22,42,77979
+low,no formal education,8,urban,west,kurmi,parsi,36,40,569931
+low,high school,6,urban,south,jat,parsi,34,21,928097
+high,college,6,urban,north,scheduled tribe,zoroastrian,26,49,504110
+medium,no formal education,4,urban,west,ahir,bahai,18,43,976416
+medium,no formal education,2,rural,east,ahir,jain,26,34,918093
+medium,college,5,rural,west,general,sikh,18,36,888095
+medium,college,8,rural,west,scheduled caste,zoroastrian,29,38,379339
+low,college,5,rural,south,maratha,muslim,37,29,603217
+low,college,4,urban,south,kayasta,bahai,23,37,483826
+medium,college,5,urban,east,general,zoroastrian,30,26,139937
+low,high school,9,rural,south,gujjar,buddhist,36,40,336033
+low,no formal education,4,urban,east,rajput,muslim,28,21,19805
+low,no formal education,7,urban,north,rajput,jewish,28,39,309315
+low,no formal education,3,rural,south,santhal,parsi,22,19,901865
+low,college,4,urban,north,khasi,buddhist,18,28,278906
+high,no formal education,9,rural,west,dalit,parsi,34,44,192527
+high,college,8,rural,south,jat,muslim,31,47,36147
+medium,no formal education,8,rural,south,yadav,zoroastrian,23,32,407926
+high,no formal education,9,urban,west,other backward class,zoroastrian,31,23,963995
+high,no formal education,4,urban,east,santhal,buddhist,26,33,549481
+high,high school,9,urban,north,khasi,sikh,37,27,478824
+medium,college,1,rural,north,scheduled tribe,jain,24,29,119476
+low,no formal education,2,rural,west,balmiki,muslim,35,33,327130
+low,high school,5,urban,north,jat,christian,31,47,672640
+high,no formal education,5,urban,south,santhal,jain,29,25,90842
+medium,college,8,rural,west,jat,parsi,37,36,251534
+low,no formal education,9,rural,west,kurmi,muslim,33,25,132881
+medium,high school,1,rural,east,vaishya,muslim,23,35,664192
+low,no formal education,3,rural,west,ahir,zoroastrian,36,40,233827
+low,high school,5,rural,east,scheduled caste,sikh,26,47,532717
+low,high school,7,rural,east,brahmin,sikh,28,27,772643
+low,college,5,rural,north,jat,muslim,38,37,848588
+low,college,1,urban,west,rajput,muslim,20,40,556447
+low,college,8,rural,south,jatav,christian,29,39,974945
+medium,no formal education,8,urban,west,kayasta,christian,30,32,782420
+low,college,1,urban,north,yadav,hindu,30,18,527756
+low,no formal education,1,rural,north,yadav,zoroastrian,36,31,304712
+medium,no formal education,2,urban,north,munda,parsi,20,18,790977
+high,high school,6,rural,north,maratha,muslim,32,24,24163
+high,no formal education,6,urban,east,other backward class,jewish,37,34,846856
+high,college,3,rural,south,gujjar,parsi,23,40,315424
+medium,college,3,urban,south,ahir,jewish,33,28,657846
+medium,no formal education,8,rural,west,gujjar,zoroastrian,23,36,782641
+medium,college,8,urban,west,brahmin,zoroastrian,20,36,678202
+medium,no formal education,6,urban,west,kshatriya,jain,26,23,467034
+low,no formal education,9,rural,south,khasi,bahai,31,25,710568
+high,college,1,rural,east,gond,jain,27,34,294007
+medium,no formal education,8,rural,west,yadav,zoroastrian,30,23,727758
+high,no formal education,3,rural,east,chamar,parsi,36,19,685620
+high,high school,7,urban,south,general,sikh,21,49,180332
+low,high school,2,rural,south,general,parsi,30,24,597937
+high,no formal education,1,urban,north,yadav,bahai,38,21,660546
+low,no formal education,5,rural,north,kayasta,sikh,37,28,759105
+high,no formal education,5,rural,west,jat,zoroastrian,29,39,30133
+high,college,6,urban,north,gujjar,muslim,31,48,265907
+low,high school,5,rural,east,marwari,parsi,25,29,713547
+high,high school,7,rural,east,rajput,hindu,28,25,737079
+medium,high school,1,urban,east,scheduled caste,parsi,24,19,813805
+high,high school,9,rural,south,santhal,muslim,35,28,107928
+high,high school,1,rural,east,munda,zoroastrian,31,38,371362
+high,high school,6,rural,south,dalit,parsi,37,28,11489
+medium,high school,4,urban,south,gond,buddhist,29,31,118849
+medium,high school,2,rural,south,vaishya,sikh,37,20,169079
+low,no formal education,4,rural,south,santhal,bahai,39,44,933167
+medium,college,9,urban,west,gond,hindu,30,32,754264
+medium,college,7,rural,north,khasi,parsi,30,27,555925
+medium,high school,7,rural,west,yadav,muslim,32,35,582120
+medium,high school,1,rural,south,maratha,buddhist,37,44,35108
+low,college,6,urban,west,khasi,sikh,36,22,889404
+high,high school,4,rural,east,brahmin,zoroastrian,38,19,907687
+high,college,3,urban,east,santhal,bahai,20,20,385592
+medium,high school,8,rural,east,other backward class,zoroastrian,33,46,919975
+high,high school,1,urban,south,santhal,muslim,22,38,950889
+low,no formal education,3,urban,south,balmiki,buddhist,24,25,504923
+high,no formal education,4,urban,north,scheduled caste,jain,39,41,726817
+high,high school,9,rural,south,ahir,zoroastrian,32,32,547612
+high,college,5,rural,north,gond,muslim,37,27,275741
+low,no formal education,6,rural,east,general,jewish,25,26,186733
+low,college,8,rural,north,marwari,jain,26,29,747541
+low,college,7,urban,north,kayasta,bahai,29,20,645561
+low,no formal education,9,rural,west,balmiki,zoroastrian,33,48,280864
+high,college,4,rural,west,scheduled caste,buddhist,31,30,193421
+medium,no formal education,4,rural,west,scheduled tribe,zoroastrian,19,31,959000
+medium,high school,2,rural,south,jat,muslim,20,23,690087
+low,no formal education,9,urban,south,kurmi,jain,27,23,783221
+medium,high school,6,urban,south,munda,jewish,27,26,698914
+high,high school,3,urban,north,scheduled caste,christian,22,47,975437
+high,college,5,urban,south,gujjar,jewish,27,20,296693
+medium,college,3,rural,east,marwari,muslim,24,25,654925
+high,high school,8,urban,south,rajput,bahai,18,41,180044
+medium,no formal education,7,rural,west,chamar,parsi,35,35,48693
+medium,high school,8,rural,east,ahir,christian,21,46,182386
+high,no formal education,2,urban,north,scheduled caste,hindu,34,28,173068
+low,no formal education,5,urban,west,ahir,buddhist,34,48,252815
+high,college,4,urban,south,kurmi,muslim,32,43,294670
+high,high school,4,urban,east,chamar,muslim,24,28,664349
+high,high school,7,rural,west,general,bahai,38,18,74453
+low,no formal education,1,urban,south,other backward class,buddhist,29,44,476926
+medium,no formal education,6,urban,east,gond,muslim,19,44,729787
+low,no formal education,7,rural,north,santhal,sikh,21,28,347275
+low,no formal education,7,rural,west,jatav,christian,30,48,848060
+low,college,8,urban,east,kurmi,hindu,34,24,74216
+medium,no formal education,9,rural,north,general,muslim,28,29,244934
+low,high school,6,urban,north,maratha,bahai,22,46,446679
+medium,college,5,rural,east,gujjar,christian,22,48,123782
+medium,no formal education,4,urban,north,scheduled tribe,zoroastrian,39,29,502118
+low,high school,1,urban,east,jatav,zoroastrian,38,43,884364
+medium,no formal education,9,urban,south,vaishya,hindu,24,32,404325
+high,college,4,rural,north,marwari,hindu,32,48,986328
+low,college,7,urban,east,kayasta,parsi,29,34,255281
+medium,no formal education,9,urban,east,baniya,christian,19,20,434305
+high,no formal education,8,urban,east,maratha,hindu,24,33,531682
+low,no formal education,6,rural,south,ahir,zoroastrian,18,42,384379
+high,high school,4,urban,north,rajput,christian,30,32,664414
+medium,high school,8,rural,west,scheduled caste,zoroastrian,35,25,374901
+high,no formal education,1,rural,south,khasi,jain,36,26,529031
+low,high school,1,urban,north,munda,sikh,20,41,991202
+high,no formal education,1,urban,east,maratha,buddhist,34,30,976502
+low,no formal education,3,urban,north,marwari,zoroastrian,39,39,600781
+low,no formal education,9,rural,north,jatav,muslim,22,46,367587
+medium,no formal education,5,rural,north,maratha,buddhist,19,33,880342
+high,no formal education,1,rural,north,munda,sikh,24,29,104550
+high,high school,4,rural,south,marwari,jewish,39,20,784756
+low,high school,7,urban,east,kayasta,hindu,25,37,886773
+medium,no formal education,4,rural,east,kshatriya,christian,29,34,244003
+medium,no formal education,4,rural,east,kurmi,parsi,18,25,269421
+high,high school,3,rural,north,kshatriya,zoroastrian,24,31,166368
+low,college,9,urban,south,scheduled tribe,hindu,27,33,949457
+medium,no formal education,4,rural,south,yadav,zoroastrian,33,19,962634
+high,no formal education,2,urban,west,jat,zoroastrian,24,24,679600
+low,no formal education,6,rural,north,chamar,bahai,25,43,623250
+low,college,3,urban,north,yadav,buddhist,28,24,134748
+low,no formal education,1,urban,south,scheduled tribe,zoroastrian,26,48,818677
+low,college,1,rural,north,khasi,parsi,38,30,866454
+medium,high school,2,urban,west,jatav,parsi,20,31,113518
+medium,high school,9,urban,east,jatav,christian,29,21,18221
+medium,no formal education,8,urban,west,jatav,hindu,35,31,117135
+medium,high school,5,rural,south,other backward class,bahai,19,37,796901
+high,no formal education,8,urban,north,other backward class,sikh,27,24,421310
+high,no formal education,4,rural,south,gond,muslim,25,29,271156
+high,college,7,urban,east,general,muslim,24,31,508780
+high,high school,8,urban,west,rajput,jewish,19,45,114252
+high,no formal education,3,rural,south,jatav,hindu,37,40,264575
+medium,college,7,urban,east,general,parsi,21,33,545361
+low,college,2,urban,north,brahmin,jain,33,43,259233
+medium,high school,6,urban,east,gujjar,sikh,30,33,634631
+low,high school,1,urban,north,other backward class,sikh,24,31,974497
+high,college,5,urban,south,other backward class,muslim,19,28,515622
+high,no formal education,8,rural,north,kurmi,bahai,20,39,292824
+high,high school,5,urban,west,baniya,parsi,27,43,122831
+low,college,8,rural,north,yadav,zoroastrian,36,30,952870
+high,college,6,rural,east,kshatriya,zoroastrian,31,27,588138
+high,high school,9,rural,north,kshatriya,christian,30,35,327906
+low,high school,4,rural,south,dalit,jain,36,23,870967
+medium,no formal education,7,urban,east,kayasta,hindu,30,19,170839
+high,college,1,urban,west,kurmi,bahai,22,26,606551
+low,college,7,rural,north,jatav,jain,37,18,723913
+low,no formal education,6,rural,west,gujjar,parsi,34,33,266385
+medium,no formal education,7,urban,south,gond,zoroastrian,28,44,182654
+high,high school,2,rural,north,scheduled caste,jewish,20,33,232278
+low,high school,6,urban,east,chamar,zoroastrian,25,28,357279
+low,no formal education,1,urban,west,jatav,christian,26,25,300776
+high,no formal education,4,rural,south,kurmi,christian,21,46,681251
+low,no formal education,6,rural,east,ahir,christian,35,23,504715
+medium,no formal education,4,rural,east,jatav,muslim,36,18,645024
+medium,no formal education,8,rural,east,vaishya,bahai,38,21,411675
+low,no formal education,6,urban,south,jatav,muslim,34,34,952565
+medium,high school,4,urban,west,kayasta,sikh,23,47,498198
+low,high school,4,urban,north,rajput,sikh,18,43,580826
+low,high school,1,urban,north,maratha,christian,25,36,819354
+low,no formal education,6,rural,north,khasi,jewish,32,49,297356
+low,college,7,urban,south,scheduled tribe,zoroastrian,35,23,923550
+high,college,3,urban,east,brahmin,zoroastrian,30,39,810890
+medium,high school,6,rural,north,chamar,christian,34,34,137522
+high,college,7,urban,east,general,bahai,21,40,579279
+high,college,6,rural,north,baniya,zoroastrian,34,34,213565
+medium,college,6,rural,east,kshatriya,bahai,21,19,290163
+low,high school,2,rural,south,kurmi,christian,32,43,307579
+low,high school,6,urban,north,jat,muslim,25,20,965600
+high,college,5,rural,south,santhal,sikh,32,49,316032
+high,no formal education,7,urban,west,jat,jain,33,23,688863
+high,college,2,rural,west,scheduled caste,bahai,32,41,795849
+medium,no formal education,7,rural,east,yadav,parsi,39,25,277853
+medium,college,8,rural,south,yadav,bahai,39,45,81565
+low,college,7,urban,west,brahmin,buddhist,36,26,660666
+high,no formal education,6,rural,south,yadav,sikh,22,36,982751
+medium,high school,2,urban,east,other backward class,parsi,33,40,465287
+high,college,2,rural,west,munda,zoroastrian,23,40,604806
+medium,college,6,urban,west,scheduled caste,jain,23,47,984779
+medium,college,4,urban,east,baniya,parsi,39,49,60964
+high,no formal education,3,rural,south,dalit,sikh,21,32,529713
+high,college,8,urban,east,brahmin,sikh,34,39,30861
+high,no formal education,3,urban,east,balmiki,sikh,32,31,652623
+high,college,9,rural,west,kshatriya,jain,27,33,842494
+high,no formal education,9,urban,south,ahir,buddhist,37,43,346053
+high,high school,7,rural,south,chamar,christian,34,38,418029
+medium,no formal education,1,rural,south,kayasta,jain,29,26,782341
+low,no formal education,7,rural,west,kayasta,zoroastrian,27,25,62856
+low,high school,9,rural,west,kurmi,bahai,36,23,135550
+low,college,7,rural,east,rajput,parsi,37,44,214479
+medium,college,7,rural,south,jatav,christian,35,43,371346
+low,high school,7,rural,west,ahir,hindu,37,26,653412
+medium,high school,2,urban,south,maratha,jewish,26,45,404106
+low,college,2,urban,west,jat,zoroastrian,35,49,844283
+low,no formal education,4,urban,east,rajput,christian,30,20,50265
+medium,no formal education,8,rural,south,ahir,jewish,23,32,284231
+medium,college,7,urban,south,scheduled tribe,jain,25,33,775427
+low,high school,1,urban,south,chamar,parsi,20,23,737462
+low,high school,4,rural,north,kurmi,jain,34,46,328480
+low,no formal education,6,rural,north,kurmi,christian,21,37,426767
+low,high school,9,rural,east,santhal,hindu,33,48,951469
+low,high school,7,urban,east,vaishya,bahai,33,26,734726
+high,no formal education,5,rural,west,munda,hindu,24,40,204506
+medium,no formal education,7,urban,north,chamar,christian,22,23,157083
+medium,college,6,rural,east,ahir,zoroastrian,32,47,257775
+medium,college,1,urban,west,kshatriya,bahai,24,25,964203
+medium,high school,1,urban,south,balmiki,christian,20,40,923873
+high,college,5,urban,east,kshatriya,zoroastrian,29,49,892245
+low,college,7,urban,east,munda,muslim,27,32,473562
+low,no formal education,5,urban,north,scheduled caste,bahai,18,28,393082
+high,high school,4,urban,west,gujjar,buddhist,26,49,81950
+low,college,5,urban,east,kshatriya,buddhist,18,24,687904
+low,no formal education,5,rural,west,ahir,muslim,39,46,902340
+high,no formal education,6,urban,north,santhal,jewish,29,48,824522
+low,no formal education,8,urban,south,scheduled caste,christian,31,24,312560
+low,no formal education,3,urban,north,ahir,christian,39,38,392053
+low,high school,7,rural,west,vaishya,christian,39,38,809012
+low,no formal education,7,rural,west,general,zoroastrian,29,29,419242
+high,no formal education,3,urban,south,rajput,zoroastrian,20,49,464682
+medium,no formal education,9,rural,east,gond,bahai,29,44,372153
+medium,high school,6,urban,east,santhal,parsi,19,40,347247
+high,high school,2,rural,north,vaishya,jain,21,32,723354
+low,college,4,urban,south,other backward class,jewish,29,22,617523
+low,college,8,urban,east,dalit,zoroastrian,32,41,248110
+medium,high school,4,rural,north,general,bahai,26,32,465848
+medium,high school,9,rural,south,maratha,jewish,37,20,15016
+low,high school,9,urban,west,dalit,zoroastrian,24,22,390003
+low,high school,4,urban,north,marwari,jain,38,37,174247
+medium,college,6,rural,south,maratha,hindu,25,24,541405
+low,high school,4,rural,south,kurmi,buddhist,31,36,556523
+low,college,4,rural,south,general,bahai,32,30,541091
+low,college,5,urban,east,gond,sikh,30,21,913119
+low,high school,4,rural,south,vaishya,jewish,31,27,947504
+high,high school,4,rural,east,ahir,buddhist,29,34,35322
+high,high school,7,urban,east,marwari,muslim,19,27,720308
+medium,college,7,rural,south,kayasta,christian,39,45,960566
+low,high school,3,urban,east,jatav,bahai,25,28,568221
+low,college,8,urban,west,marwari,muslim,22,49,620614
+high,high school,4,urban,south,vaishya,sikh,35,36,958069
+low,college,2,rural,north,general,hindu,19,40,682687
+low,high school,5,urban,west,kurmi,christian,38,24,156741
+low,college,8,rural,south,scheduled tribe,jain,39,20,304526
+low,high school,8,rural,west,general,parsi,38,32,766032
+medium,college,4,rural,south,balmiki,parsi,31,47,58297
+low,high school,1,urban,east,baniya,muslim,34,37,805450
+medium,college,9,urban,east,kurmi,muslim,20,40,322086
+high,high school,5,rural,south,chamar,hindu,26,27,298546
+medium,college,3,rural,south,kshatriya,sikh,27,42,536897
+medium,high school,6,rural,south,maratha,zoroastrian,36,19,50176
+low,high school,6,rural,south,scheduled caste,parsi,35,32,832086
+high,no formal education,9,urban,north,other backward class,jewish,37,40,453900
+high,no formal education,9,rural,east,santhal,christian,38,23,898009
+low,no formal education,9,rural,south,kurmi,christian,26,41,94924
+medium,high school,2,rural,north,santhal,jewish,18,22,551081
+low,high school,4,rural,east,baniya,parsi,35,35,966038
+high,college,6,rural,west,scheduled tribe,hindu,38,30,23428
+high,no formal education,1,urban,south,kayasta,muslim,32,19,65634
+medium,no formal education,9,urban,north,ahir,buddhist,24,43,953184
+medium,high school,5,urban,east,brahmin,parsi,19,22,121291
+low,high school,8,rural,south,dalit,parsi,28,49,669889
+high,no formal education,3,rural,south,baniya,muslim,19,20,42660
+medium,high school,5,rural,east,baniya,hindu,24,41,708167
+low,college,3,urban,south,santhal,jewish,25,40,829456
+medium,high school,6,urban,south,kshatriya,zoroastrian,26,48,500212
+medium,high school,4,rural,east,yadav,sikh,38,25,990618
+medium,high school,1,urban,east,yadav,christian,32,43,338929
+high,no formal education,7,rural,east,jatav,sikh,19,21,157299
+high,no formal education,5,rural,west,kurmi,buddhist,19,36,647417
+medium,no formal education,4,urban,north,marwari,parsi,22,32,799322
+high,no formal education,6,urban,north,jatav,christian,18,40,842201
+medium,high school,1,urban,west,rajput,sikh,26,28,629360
+high,high school,3,rural,west,gujjar,hindu,25,31,461353
+low,no formal education,2,rural,south,scheduled tribe,jewish,18,37,29050
+high,college,9,urban,south,khasi,muslim,34,21,882302
+high,high school,2,rural,north,balmiki,jewish,22,41,351697
+low,no formal education,4,rural,north,general,zoroastrian,33,31,847760
+medium,high school,9,rural,west,munda,jewish,24,25,18770
+medium,college,9,urban,south,rajput,parsi,24,33,689965
+low,high school,2,urban,north,baniya,christian,23,29,32567
+low,college,7,rural,west,maratha,jain,32,35,91050
+low,no formal education,8,rural,south,kurmi,jewish,36,39,307435
+low,high school,5,urban,north,rajput,bahai,24,23,471675
+high,no formal education,6,urban,north,munda,buddhist,24,19,977109
+high,high school,4,rural,east,gond,jain,28,37,584025
+high,college,6,rural,west,kayasta,parsi,37,19,255718
+low,no formal education,4,urban,east,munda,buddhist,33,30,393654
+high,college,2,rural,south,munda,jewish,21,43,682831
+high,high school,4,urban,north,balmiki,sikh,31,46,233300
+medium,no formal education,4,rural,west,yadav,parsi,22,32,176344
+high,high school,8,rural,south,gujjar,jewish,20,35,596057
+medium,college,5,urban,north,jat,jain,31,33,236556
+low,high school,1,rural,west,brahmin,bahai,32,35,390588
+high,high school,4,urban,south,marwari,muslim,29,36,655269
+medium,college,6,urban,east,jatav,jewish,28,43,408976
+low,no formal education,6,urban,east,kurmi,christian,35,41,72328
+medium,no formal education,9,urban,north,munda,hindu,39,39,217485
+medium,no formal education,1,rural,south,maratha,jain,39,30,231090
+high,college,4,rural,south,jatav,jewish,35,32,780380
+high,no formal education,8,rural,north,scheduled tribe,sikh,32,25,726668
+low,no formal education,4,urban,west,gujjar,zoroastrian,26,47,234917
+medium,high school,7,rural,north,munda,bahai,29,45,340507
+medium,no formal education,4,rural,east,baniya,sikh,25,22,156403
+low,no formal education,8,rural,south,marwari,christian,23,42,860593
+high,high school,4,urban,north,santhal,zoroastrian,19,27,513364
+low,high school,7,rural,east,brahmin,zoroastrian,22,41,497850
+high,high school,8,rural,north,general,buddhist,28,45,886091
+high,high school,9,urban,south,ahir,sikh,37,49,847968
+medium,no formal education,2,rural,south,gond,sikh,33,37,728852
+medium,high school,2,urban,north,gujjar,sikh,31,30,505713
+high,no formal education,7,urban,north,khasi,buddhist,21,24,422116
+high,college,9,urban,south,other backward class,parsi,33,36,429807
+medium,high school,9,rural,north,chamar,jain,32,44,745350
+high,no formal education,9,rural,east,maratha,jewish,30,21,734102
+low,no formal education,6,urban,south,vaishya,jewish,31,47,344488
+high,high school,7,rural,south,khasi,sikh,20,27,602343
+medium,no formal education,9,urban,west,dalit,sikh,30,22,37312
+low,college,6,urban,east,jat,christian,31,25,706129
+high,no formal education,9,urban,south,maratha,parsi,21,23,126286
+high,no formal education,3,rural,north,jatav,bahai,18,38,62837
+low,high school,9,rural,west,scheduled caste,zoroastrian,32,41,828094
+high,college,1,urban,west,maratha,christian,37,34,565621
+low,college,8,rural,west,balmiki,hindu,25,28,686533
+low,no formal education,7,rural,north,gujjar,bahai,31,40,972658
+low,no formal education,7,urban,south,kayasta,hindu,31,43,321781
+high,high school,8,urban,west,other backward class,zoroastrian,24,25,938800
+medium,no formal education,7,urban,east,scheduled caste,christian,30,33,345381
+medium,college,7,rural,north,other backward class,hindu,25,19,922461
+low,high school,8,rural,west,rajput,zoroastrian,25,31,554122
+medium,no formal education,7,urban,north,scheduled tribe,hindu,30,46,214804
+low,college,9,rural,south,balmiki,bahai,26,28,676048
+medium,college,4,rural,north,yadav,christian,34,39,242801
+low,no formal education,6,urban,north,chamar,hindu,36,28,204035
+high,high school,6,rural,south,dalit,parsi,34,35,358460
+high,high school,4,urban,north,rajput,christian,31,32,497061
+medium,no formal education,4,rural,west,ahir,hindu,26,47,171198
+medium,no formal education,5,rural,north,jatav,parsi,34,32,303976
+low,college,3,rural,north,balmiki,sikh,39,42,221749
+low,no formal education,9,urban,south,rajput,buddhist,38,28,828586
+medium,no formal education,3,urban,east,scheduled caste,buddhist,36,22,444439
+low,college,3,urban,east,vaishya,muslim,31,47,822235
+medium,no formal education,8,urban,west,balmiki,bahai,36,18,772497
+medium,college,5,rural,east,gujjar,sikh,18,36,818860
+medium,high school,1,rural,north,yadav,christian,22,40,885710
+medium,high school,3,urban,north,gond,hindu,31,33,135091
+high,college,1,urban,east,kayasta,jewish,23,42,764015
+high,high school,3,urban,west,gujjar,hindu,28,40,218811
+medium,no formal education,2,urban,east,kurmi,sikh,27,22,230015
+high,no formal education,2,urban,south,baniya,parsi,25,34,30394
+medium,college,6,rural,east,jatav,jain,32,19,940059
+high,no formal education,3,urban,south,kayasta,parsi,21,24,847224
+medium,no formal education,8,urban,east,jatav,christian,31,48,442585
+medium,no formal education,4,rural,west,scheduled caste,jewish,21,41,644116
+high,no formal education,6,rural,south,khasi,sikh,39,47,755057
+medium,college,3,rural,south,scheduled tribe,hindu,21,25,313165
+medium,college,8,rural,west,rajput,bahai,36,34,84261
+high,no formal education,4,urban,east,khasi,zoroastrian,30,45,320567
+high,high school,8,urban,west,general,christian,29,40,664480
+low,college,5,urban,west,khasi,buddhist,23,27,481575
+medium,high school,6,rural,east,scheduled tribe,buddhist,29,34,174838
+medium,high school,1,rural,north,maratha,christian,20,34,264258
+low,no formal education,2,urban,north,other backward class,hindu,21,23,19526
+medium,no formal education,7,rural,north,yadav,buddhist,33,36,43998
+low,college,9,urban,west,santhal,christian,25,37,536298
+medium,college,9,urban,west,other backward class,hindu,29,49,845094
+low,high school,6,rural,north,gujjar,jewish,28,22,792889
+high,college,6,urban,east,kayasta,hindu,29,35,176633
+low,no formal education,8,urban,east,jatav,sikh,25,35,989575
+medium,high school,5,urban,west,kurmi,jewish,27,31,200684
+high,college,5,urban,east,kurmi,jewish,20,28,608781
+high,college,4,urban,north,baniya,parsi,20,18,234968
+medium,no formal education,8,urban,south,maratha,jain,19,19,547619
+high,high school,8,rural,west,balmiki,bahai,37,24,452537
+low,high school,5,rural,south,general,zoroastrian,37,32,500111
+medium,no formal education,7,rural,north,general,jewish,37,41,833053
+medium,high school,9,rural,south,marwari,sikh,25,35,263276
+high,no formal education,5,rural,east,ahir,jain,30,45,587969
+high,college,2,rural,south,gujjar,buddhist,33,38,964259
+low,high school,4,rural,south,kayasta,christian,20,44,53759
+medium,college,4,urban,north,munda,buddhist,25,48,732994
+high,college,9,urban,north,vaishya,jewish,22,32,928039
+low,no formal education,2,urban,north,marwari,jain,29,31,526643
+low,high school,6,rural,north,general,bahai,24,34,306952
+high,high school,7,rural,north,santhal,hindu,20,35,488101
+medium,high school,3,urban,south,baniya,jewish,20,37,774222
+medium,high school,7,urban,west,marwari,buddhist,37,31,757244
+low,no formal education,2,urban,west,vaishya,bahai,38,18,574441
+medium,no formal education,2,rural,east,maratha,christian,32,45,921318
+low,no formal education,6,urban,south,kshatriya,parsi,39,30,619192
+medium,high school,5,urban,west,marwari,parsi,22,45,520067
+medium,high school,8,rural,east,kshatriya,parsi,31,27,105715
+medium,college,1,rural,north,yadav,bahai,21,48,109664
+high,high school,3,urban,east,kayasta,parsi,26,24,33375
+high,college,7,urban,north,kshatriya,jewish,29,22,524184
+medium,college,6,urban,north,kurmi,muslim,25,22,851711
+high,college,5,urban,south,kayasta,hindu,30,22,334519
+medium,high school,2,urban,north,maratha,christian,32,49,578756
+medium,college,9,urban,south,balmiki,christian,26,46,760204
+high,high school,7,rural,west,rajput,buddhist,24,34,401650
+low,high school,8,rural,north,yadav,jewish,33,26,716044
+medium,no formal education,1,rural,west,scheduled tribe,zoroastrian,31,43,859923
+high,no formal education,7,rural,east,kayasta,bahai,28,37,10504
+low,high school,8,urban,east,dalit,hindu,38,26,967161
+medium,no formal education,6,rural,east,ahir,zoroastrian,27,21,658105
+medium,high school,6,urban,north,scheduled tribe,bahai,24,47,327186
+low,college,8,rural,south,kshatriya,bahai,20,47,519002
+medium,no formal education,2,urban,east,jatav,christian,26,40,609193
+medium,no formal education,4,urban,east,dalit,buddhist,36,38,902523
+high,high school,2,rural,south,chamar,muslim,21,31,861313
+high,no formal education,4,urban,west,kshatriya,parsi,21,49,782797
+high,no formal education,6,urban,west,scheduled caste,zoroastrian,39,39,538769
+low,high school,3,rural,west,general,parsi,32,18,281798
+medium,high school,9,urban,north,baniya,sikh,38,26,923969
+medium,high school,9,rural,south,scheduled tribe,hindu,20,22,794168
+medium,high school,2,urban,south,scheduled caste,parsi,39,24,396113
+high,high school,2,rural,east,jat,zoroastrian,25,29,609829
+low,no formal education,6,rural,east,dalit,zoroastrian,29,27,685702
+high,college,1,rural,west,santhal,zoroastrian,38,19,61971
+low,no formal education,7,urban,east,general,muslim,30,30,18995
+low,high school,3,rural,north,ahir,christian,23,34,43768
+low,high school,5,rural,east,vaishya,hindu,34,45,274077
+low,no formal education,6,rural,north,baniya,muslim,20,39,82382
+medium,no formal education,9,urban,south,jat,christian,37,27,841334
+high,no formal education,7,urban,south,khasi,buddhist,21,19,147985
+high,college,9,rural,north,balmiki,jewish,23,19,617203
+low,no formal education,4,rural,north,vaishya,sikh,22,30,608538
+low,college,3,urban,south,jatav,parsi,19,28,596869
+high,no formal education,2,rural,north,rajput,parsi,20,24,312963
+high,college,2,rural,south,gond,jewish,18,22,269689
+high,high school,5,urban,north,general,zoroastrian,31,39,507901
+low,high school,9,rural,south,rajput,sikh,19,36,650546
+medium,no formal education,4,rural,north,scheduled caste,hindu,28,38,682574
+low,high school,7,urban,north,brahmin,buddhist,33,24,287861
+medium,college,8,rural,north,ahir,parsi,26,28,268885
+medium,college,7,rural,north,dalit,christian,29,33,305370
+medium,college,1,rural,north,scheduled tribe,buddhist,18,19,846919
+low,college,3,rural,east,gond,christian,38,39,949362
+low,college,1,rural,north,baniya,christian,19,35,69465
+low,high school,7,rural,west,kayasta,christian,37,26,568558
+medium,no formal education,8,rural,north,general,bahai,25,22,576780
+low,high school,1,rural,south,gujjar,jewish,37,40,222067
+medium,no formal education,5,rural,east,ahir,jewish,30,21,394502
+medium,high school,5,rural,north,jat,jewish,21,18,879828
+medium,college,4,rural,north,vaishya,jain,31,46,315058
+low,college,9,urban,west,kshatriya,sikh,20,40,361257
+medium,no formal education,9,urban,west,khasi,hindu,35,22,588270
+high,high school,1,rural,north,balmiki,zoroastrian,28,27,734902
+low,high school,8,rural,west,vaishya,sikh,20,22,547961
+high,no formal education,7,urban,south,munda,sikh,23,40,553116
+high,no formal education,9,urban,west,baniya,buddhist,33,24,814812
+low,no formal education,1,urban,north,jat,buddhist,25,19,701836
+high,no formal education,2,urban,east,marwari,buddhist,18,39,452901
+medium,no formal education,3,urban,south,yadav,parsi,38,25,996823
+medium,high school,8,rural,west,dalit,jain,29,34,35525
+low,high school,9,urban,north,brahmin,zoroastrian,21,44,113368
+high,high school,6,rural,west,jatav,zoroastrian,21,25,401604
+low,no formal education,6,urban,south,jatav,jain,18,33,893679
+high,no formal education,7,rural,east,jatav,parsi,20,28,869810
+medium,high school,2,rural,west,kshatriya,christian,37,42,639622
+low,high school,4,rural,south,balmiki,muslim,21,48,239040
+high,college,3,urban,east,gujjar,jewish,34,27,718590
+low,high school,8,rural,east,balmiki,muslim,34,27,29336
+high,high school,9,urban,south,kshatriya,sikh,38,21,394856
+high,no formal education,3,rural,north,jatav,buddhist,19,49,869280
+high,high school,1,rural,east,rajput,muslim,30,46,241656
+low,college,8,urban,west,ahir,bahai,20,26,708215
+low,college,3,urban,north,scheduled tribe,buddhist,21,47,580658
+medium,high school,8,rural,west,gond,jewish,23,48,714809
+high,college,9,rural,south,santhal,jain,18,28,63538
+high,high school,8,rural,west,yadav,parsi,30,35,570651
+medium,college,1,urban,west,chamar,muslim,18,26,731953
+low,high school,9,urban,east,munda,sikh,25,37,692201
+high,no formal education,4,rural,east,maratha,hindu,29,38,987669
+low,high school,9,urban,east,general,sikh,31,33,48524
+low,college,7,rural,east,scheduled tribe,hindu,24,42,901032
+high,no formal education,8,urban,west,dalit,hindu,34,19,225757
+low,no formal education,6,rural,west,baniya,jewish,22,35,768303
+low,no formal education,6,rural,west,yadav,muslim,38,31,939209
+high,college,4,rural,north,ahir,hindu,36,26,908169
+medium,high school,4,rural,north,scheduled caste,hindu,32,25,249479
+low,no formal education,2,rural,east,khasi,bahai,23,21,941916
+low,no formal education,2,rural,west,gujjar,christian,34,34,886950
+low,college,6,rural,east,munda,buddhist,29,41,120699
+low,high school,1,rural,west,ahir,zoroastrian,36,19,53053
+low,college,5,urban,north,maratha,parsi,32,21,336404
+high,high school,4,rural,north,gujjar,parsi,19,41,619164
+medium,no formal education,2,urban,north,general,jain,29,37,42569
+medium,no formal education,7,urban,west,khasi,jewish,21,48,555392
+medium,no formal education,8,urban,east,scheduled tribe,muslim,25,44,966188
+low,no formal education,8,urban,south,ahir,buddhist,34,23,311043
+medium,high school,7,urban,north,maratha,hindu,34,32,857012
+low,college,9,urban,east,kurmi,bahai,19,26,567581
+high,college,4,urban,east,santhal,hindu,30,36,816617
+low,high school,5,urban,north,marwari,buddhist,34,25,620455
+medium,college,5,rural,west,gond,muslim,38,18,724448
+low,college,5,urban,east,gujjar,jewish,24,28,742952
+high,college,8,rural,east,munda,hindu,27,26,157079
+low,high school,8,urban,south,kayasta,christian,36,39,434424
+medium,high school,3,urban,north,kurmi,buddhist,35,39,418923
+high,high school,8,urban,east,gujjar,jewish,27,48,144216
+medium,high school,3,rural,south,jat,bahai,21,43,988316
+medium,college,5,rural,south,gond,christian,18,21,274656
+high,college,5,urban,south,brahmin,sikh,32,36,865749
+medium,high school,8,urban,east,khasi,zoroastrian,36,45,494664
+medium,college,8,urban,west,vaishya,buddhist,37,40,562399
+low,no formal education,3,urban,west,rajput,buddhist,19,41,127425
+medium,no formal education,6,urban,west,other backward class,sikh,18,48,571997
+low,college,5,rural,west,munda,zoroastrian,26,33,960647
+low,no formal education,1,urban,north,scheduled caste,bahai,36,34,869883
+medium,no formal education,6,urban,north,chamar,sikh,23,30,652593
+medium,college,8,rural,east,yadav,parsi,29,18,967964
+low,college,8,urban,east,brahmin,muslim,21,39,628713
+low,college,9,urban,west,vaishya,hindu,19,48,145027
+medium,high school,3,urban,south,brahmin,muslim,27,25,621750
+medium,college,3,urban,east,jat,buddhist,27,22,216132
+low,no formal education,2,urban,north,kayasta,jain,25,20,708345
+medium,no formal education,5,urban,south,balmiki,buddhist,39,48,519019
+high,high school,1,rural,north,balmiki,buddhist,34,24,769100
+medium,high school,6,urban,north,jat,parsi,28,27,880345
+medium,college,7,rural,north,kshatriya,zoroastrian,31,29,341885
+low,high school,3,urban,east,kshatriya,bahai,39,19,565604
+low,college,6,urban,east,yadav,muslim,32,38,822375
+medium,no formal education,3,urban,north,scheduled tribe,hindu,37,36,508136
+low,high school,3,urban,south,jatav,bahai,38,24,456020
+medium,no formal education,1,urban,east,santhal,zoroastrian,20,47,791342
+medium,college,8,rural,west,baniya,parsi,20,41,635117
+low,college,8,rural,west,maratha,muslim,20,43,926389
+high,no formal education,3,urban,north,maratha,hindu,25,38,225021
+high,no formal education,4,rural,west,scheduled tribe,zoroastrian,32,35,312258
+low,no formal education,4,rural,north,scheduled tribe,muslim,38,33,693719
+low,college,1,rural,south,kurmi,sikh,38,25,96600
+medium,no formal education,7,urban,east,kayasta,buddhist,21,19,510967
+medium,college,8,rural,east,khasi,jain,26,32,535938
+low,college,2,urban,north,maratha,sikh,30,38,112452
+high,college,8,urban,south,balmiki,christian,32,47,203437
+high,high school,1,rural,west,general,jain,26,28,806620
+low,college,8,urban,west,rajput,muslim,37,25,632722
+high,high school,6,rural,north,scheduled tribe,sikh,20,42,446952
+low,college,2,urban,west,maratha,jewish,25,29,885307
+medium,college,6,rural,south,kurmi,jewish,22,23,251186
+low,college,9,urban,east,kayasta,jewish,36,22,389651
+high,high school,6,rural,west,scheduled tribe,christian,18,45,511859
+low,no formal education,9,rural,east,gond,jewish,33,35,499063
+high,college,6,rural,south,jat,muslim,35,41,222214
+low,college,2,rural,south,jatav,jain,23,21,255527
+medium,high school,9,urban,east,santhal,parsi,27,42,784109
+low,high school,4,urban,east,scheduled caste,jain,27,44,919459
+medium,no formal education,3,rural,west,marwari,zoroastrian,30,26,700544
+medium,college,7,rural,south,khasi,jain,32,21,844144
+medium,no formal education,3,rural,south,santhal,zoroastrian,34,21,535364
+high,no formal education,1,urban,west,scheduled tribe,muslim,32,47,888838
+low,high school,1,urban,west,kshatriya,jewish,32,26,33383
+low,no formal education,8,urban,south,marwari,buddhist,24,29,875300
+high,college,7,rural,north,rajput,muslim,21,47,101265
+low,no formal education,3,rural,east,jat,parsi,24,35,787459
+high,high school,1,urban,south,other backward class,buddhist,30,44,231265
+low,college,3,rural,west,other backward class,muslim,37,25,133521
+high,college,1,urban,north,santhal,christian,26,38,797013
+high,college,7,rural,north,chamar,buddhist,25,22,947146
+medium,no formal education,2,urban,west,scheduled tribe,sikh,26,29,308663
+high,high school,3,urban,north,rajput,parsi,34,29,981834
+low,college,7,rural,west,rajput,christian,29,20,992883
+medium,high school,9,urban,west,maratha,jewish,36,33,500148
+medium,no formal education,5,urban,north,scheduled caste,zoroastrian,19,43,670757
+low,high school,4,rural,west,munda,jewish,24,22,700524
+low,no formal education,5,urban,east,jat,bahai,36,45,935424
+medium,college,9,urban,south,rajput,muslim,33,41,211328
+medium,no formal education,3,rural,south,chamar,muslim,32,37,115177
+low,high school,2,rural,north,santhal,hindu,37,23,549391
+low,high school,4,urban,west,ahir,jewish,32,23,747910
+low,college,8,rural,east,scheduled caste,sikh,18,34,709518
+medium,high school,1,urban,north,baniya,jain,24,45,764277
+medium,no formal education,3,rural,south,jatav,zoroastrian,20,25,988320
+medium,no formal education,5,urban,east,other backward class,buddhist,35,40,292353
+high,no formal education,2,urban,east,jatav,hindu,19,19,736121
+high,high school,9,rural,east,vaishya,jain,39,39,559199
+medium,college,7,rural,east,scheduled tribe,parsi,36,19,555629
+high,college,3,rural,south,vaishya,sikh,22,33,975338
+medium,college,8,rural,west,munda,parsi,18,42,179112
+medium,college,4,urban,south,khasi,hindu,29,41,97012
+low,college,8,rural,north,rajput,jewish,25,45,54101
+high,college,6,rural,south,kshatriya,buddhist,37,46,284396
+medium,high school,9,urban,north,khasi,parsi,38,42,530747
+medium,college,8,urban,north,jatav,jain,32,26,264057
+high,high school,9,rural,south,scheduled caste,hindu,38,44,354156
+medium,high school,1,rural,north,kayasta,sikh,22,38,615029
+low,no formal education,5,urban,south,yadav,zoroastrian,18,25,859627
+high,no formal education,1,rural,west,jat,jain,26,33,682723
+high,high school,3,rural,east,scheduled caste,sikh,33,34,936043
+high,no formal education,1,urban,west,ahir,jewish,19,33,524274
+low,college,7,rural,north,munda,buddhist,20,45,75494
+medium,high school,1,rural,east,kayasta,muslim,30,32,424141
+medium,no formal education,6,rural,east,munda,bahai,25,19,554048
+medium,college,2,urban,east,gujjar,jain,38,26,730379
+high,high school,1,rural,north,rajput,jain,31,18,407918
+low,high school,3,rural,south,maratha,jain,19,33,868142
+low,college,5,urban,west,brahmin,zoroastrian,18,33,87516
+medium,high school,8,rural,north,other backward class,hindu,31,25,453379
+low,high school,9,rural,south,brahmin,buddhist,31,47,540234
+low,high school,4,rural,south,khasi,hindu,36,21,49495
+medium,high school,5,urban,east,santhal,buddhist,24,44,145817
+low,no formal education,7,rural,south,scheduled tribe,sikh,33,28,48816
+medium,high school,1,urban,north,yadav,christian,27,37,992949
+medium,college,2,rural,east,kayasta,parsi,31,18,421336
+low,high school,2,rural,north,kshatriya,hindu,24,18,908552
+medium,high school,9,rural,west,brahmin,zoroastrian,27,31,378933
+high,high school,5,rural,east,khasi,hindu,35,48,452418
+medium,no formal education,6,rural,north,other backward class,sikh,21,30,382174
+medium,high school,3,urban,south,santhal,sikh,37,44,117041
+low,college,6,urban,west,dalit,sikh,33,47,410657
+low,college,4,rural,south,balmiki,zoroastrian,18,24,112293
+low,high school,6,urban,south,scheduled tribe,jain,30,47,63810
+medium,no formal education,3,urban,north,kurmi,christian,34,25,261461
+low,high school,8,urban,north,scheduled caste,bahai,33,19,324001
+low,high school,3,urban,east,santhal,muslim,37,38,421573
+low,college,8,rural,east,marwari,buddhist,24,30,804235
+high,no formal education,2,urban,west,brahmin,jain,28,49,305690
