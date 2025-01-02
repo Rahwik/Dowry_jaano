@@ -91,7 +91,3 @@ Add an example screenshot of your application here.
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-Feel free to customize this `README.md` to suit your project's specifics and branding.
